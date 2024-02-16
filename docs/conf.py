@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'XC DNS LB セットアップガイド'
+project = 'XC DNS セットアップガイド'
 copyright = '2024, F5ネットワークスジャパン合同会社'
 author = 'F5ネットワークスジャパン合同会社'
 
