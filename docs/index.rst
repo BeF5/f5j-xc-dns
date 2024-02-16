@@ -11,28 +11,39 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - MyF5: https://my.f5.com/manage/s/
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral（コミュニティ）: https://community.f5.com/
+- F5 Distributed Cloud Tech Docs : https://docs.cloud.f5.com/docs/
+
 
 コンテンツ
 ==============================================
 こちらのページでは、以下の内容をご紹介しております。
 
-- 本セットアップガイドにて、F5 BIG-IP Next WAF（以下、Next WAF）のポリシーの設定方法についてご案内します。
-- Next WAFは、Webアプリケーションファイアウォールです。
-- Next WAF によって、Web アプリケーション特有の攻撃に対する防御が可能となります。
-- Bot対策機能、L7レベルのDoS攻撃に対する防御機能も兼ね備えています。
-- 本ガイドでは、Next WAFをご購入いただいてすぐにWAFを導入頂けるように、必要となる典型的なセットアップ手法を、豊富なスクリーンショットを交えて解説します。（実際は環境構成にあった設定値を設定して下さい。）
-- 本ガイドでは、F5 Japanにおけるハンズオントレーニングのコースでも利用しております。
+- F5 Distributed Cloud Services(以下、XC)環境下でのDNS設定の説明、デモの動画を公開します。
 
 
 .. note::
-   本ドキュメントの手順は、F5 UDF (Universal Demonstration Framework)というラボ環境での実施を前提に書かれています。
-   UDF以外での環境で利用される場合は、IPアドレス等は環境に合わせて読み替えてください。
+   本資料の画面表示や名称は資料作成時点の画面表示を利用しております。アップデート等より表示が若干異なる場合がございます。
 
 
-.. video:: _static/Chatbot.mp4
+構成内容(開始時間の目安)
+
+1. XC DNS LB Primary DNS 設定について
+
+- 説明 (0:00〜)
+- XC Consoleを利用したデモ (2:27〜)
+- パフォーマンス (4:23〜)
+
+2. XC DNS LB Secoundary DNS 設定について
+
+- 説明 (4:53〜)
+- XC Consoleを利用したデモ (5:22〜)
+- パフォーマンス (6:20〜)
+
+
+
+.. video:: _static/DNSsetup.mp4
    :width: 500
    :height: 300
-
 
 
 .. toctree::
