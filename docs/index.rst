@@ -40,6 +40,11 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - パフォーマンス (6:20〜)
 
 
+.. image:: _static/DNS設定_Primary_Secondary_DNS.png
+    :alt: FX XC DNS
+    :target: https://www.youtube.com/watch?v=jwXQxjXWGIg
+Share
+
 
 .. video:: _static/DNSsetup.mp4
    :width: 500
