@@ -41,10 +41,6 @@ F5のオフィシャルなドキュメントはこちらにございます。
 
 
 
-.. image:: _static/F5XC_DNS概要と設定.pdf
-
-
-
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
